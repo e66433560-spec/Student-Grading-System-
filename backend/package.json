@@ -1,0 +1,16 @@
+{
+  "name": "student-grading-backend",
+  "version": "1.0.0",
+  "description": "Backend for Student Grading System",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.19.2",
+    "mongoose": "^8.0.0"
+  }
+}
